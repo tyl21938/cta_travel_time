@@ -4,7 +4,7 @@
 **Inputs**
 * `input_origins.csv` and `input_dests.csv`, which can be found in the main directory
 * ODX dataset
-    * Raw data from 10/19/2017 is too large to upload, we provide the filtered version instead
+    * Raw data from 9/19/2019 cannot be uploaded due to size and access restrictions.
 * A set of geographical bounds to determine to nearest transit stops to an origin or destination
     * `CT2010.geojson` represents the geometry of Chicago census tracts from the 2010 census count
     * `census_tracts_bounded.csv` extracts the information from `CT2010.geojson` into a `csv` dataframe format
