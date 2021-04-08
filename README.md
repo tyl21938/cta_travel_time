@@ -27,7 +27,7 @@ The origin-destination coordinate pairs were downloaded directly from the [LEDH 
      * Section 3: `input_origins.csv` and `input_dests.csv` with only fields `GEOID`, `X`, and `Y` to use as inputs to running OTP travel times
 
 ### GTFS
-We used Chicago Transportation Authority's scheduled GTFS public transit data found [here](https://transitfeeds.com/p/chicago-transit-authority/165), particularly the data file named `22 October 2017`, which contains the GTFS feed from 19 October 2017 - 31 December 2017. 
+We used Chicago Transportation Authority's scheduled GTFS public transit data found [here](https://transitfeeds.com/p/chicago-transit-authority/165), particularly the data file containing the GTFS feed from 3 September 2019 - 30 November 2019. 
 
 After generating `input_origins.csv` and `input_dests.csv` from above, follow the `README.md` instructions in the `gtfs` folder to calculate travel times. 
 
